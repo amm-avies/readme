@@ -5,7 +5,7 @@ Last updated Oct 2019
 
 # What is Your skill sets?
 
-Java, C#, ASP.Net, mySQL, Android (Java, Kotlin)
+ASP.Net(MVC), C#, Java, ASP.Net, Git, SQL Server, MySQL, Firebase, Android (Java, Kotlin)
 
 # What is Your Current Project AMM?
 
