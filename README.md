@@ -3,13 +3,9 @@ A readme for AMM's GitHub repos. This supplements my resume.
 
 Last updated Oct 2019
 
-# What is Your SKills?
+# What is Your skill sets?
 
-Java
-C#
-ASP.Net
-mySQL
-Android (Java, Kotlin)
+Java, C#, ASP.Net, mySQL, Android (Java, Kotlin)
 
 # What is Your Current Project AMM?
 
